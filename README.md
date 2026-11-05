@@ -52,7 +52,7 @@ I enjoy solving complex engineering problems and building efficient, maintainabl
 
 Interested in C++, Qt, systems programming, and challenging engineering projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keivan-nosraty-b51168139/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github)](https://github.com/k1nosraty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivan-nosraty-b51168139/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/k1nosraty)
 
 </div>
