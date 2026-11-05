@@ -1,8 +1,7 @@
 <!-- Keivan Nosraty | GitHub Profile README -->
 
-<p align="center">
-  <img src="./assets/header.svg" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
-</p>
+<img src="./assets/header-light.svg#gh-light-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
+<img src="./assets/header-dark.svg#gh-dark-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
 
 ### Computer Engineer | C++ / Qt Developer
 
@@ -54,5 +53,5 @@ Interested in C++, Qt, systems programming, and challenging engineering projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivan-nosraty-b51168139/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white)](https://github.com/k1nosraty)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:k1.nosraty@outlook.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/k1_no)
