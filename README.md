@@ -3,15 +3,6 @@
 <img src="./assets/header-light.svg#gh-light-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
 <img src="./assets/header-dark.svg#gh-dark-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
 
-### Computer Engineer | C++ / Qt Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/k1nosraty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keivan-nosraty-b51168139/)
-
-</div>
-
----
-
 ## About Me
 
 Computer Engineer with a B.Sc. and M.Sc. in **Computer Systems Architecture** from **Isfahan University of Technology**.
