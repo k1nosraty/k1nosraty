@@ -1,0 +1,6 @@
+# Keep header generation and review files local; publish only the SVG assets.
+/scripts/generate_headers.py
+/scripts/__pycache__/
+/assets/headers/preview.html
+/assets/headers/preview.png
+/assets/headers/README.md

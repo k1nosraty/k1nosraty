@@ -1,7 +1,7 @@
 <!-- Keivan Nosraty | GitHub Profile README -->
 
-<img src="./assets/header-light.svg#gh-light-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
-<img src="./assets/header-dark.svg#gh-dark-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
+<img src="./assets/headers/studio-light.svg#gh-light-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
+<img src="./assets/headers/studio-dark.svg#gh-dark-mode-only" alt="Keivan Nosraty — Computer Engineer | C++ / Qt Developer" width="100%" />
 
 ## About Me
 
