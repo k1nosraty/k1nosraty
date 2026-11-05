@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Keivan%20Nosrati&fontSize=48&fontColor=FFFFFF&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Keivan%20Nosraty&fontSize=48&fontColor=FFFFFF&fontAlignY=40" width="100%" />
 
 ### Computer Engineer | C++ / Qt Developer
 
